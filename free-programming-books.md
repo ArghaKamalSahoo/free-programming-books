@@ -69,6 +69,7 @@
 * [Teradata](#teradata)
 * [Vim](#vim)
 * [Websphere](#websphere)
+* [Web API](#web-api)
 * [Windows Phone](#windows-phone)
 
 
@@ -724,6 +725,10 @@
 
 * [Getting started with WebSphere](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_WASCE_p2.pdf) (PDF)
 
+
+###Web API Deisgn
+
+* [Web API Design - Crafting Interfaces that Developers Love](http://pages.apigee.com/web-api-design-ebook.html)
 
 ###Windows Phone
 
